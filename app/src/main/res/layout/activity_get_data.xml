@@ -13,6 +13,6 @@
         android:id="@+id/recycleview"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         android:paddingHorizontal="10dp"
-        android:layout_marginTop="10dp"/>
+        android:layout_margin="10dp"/>
 
 </LinearLayout>
